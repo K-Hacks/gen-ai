@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Creating AI applications/intro",
+  "id": "Creating AI applications/intro",
+  "title": "Creating AI Applications using Langchain and Hugging Face",
+  "description": "In today's rapidly evolving world, AI automation is becoming an integral part of our lives. Many of the tasks we encounter daily are now automated using AI technologies. In this tutorial, we will explore how to create Generative AI models using Langchain and Hugging Face APIs. Specifically, we will build applications using the GPT-2 model, an open-source language model developed by OpenAI.",
+  "source": "@site/docs/Creating AI applications/intro.md",
+  "sourceDirName": "Creating AI applications",
+  "slug": "/Creating AI applications/intro",
+  "permalink": "/gen-ai/docs/Creating AI applications/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Creating AI applications/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Image Captioning App",
+    "permalink": "/gen-ai/docs/imgcap/intro"
+  },
+  "next": {
+    "title": "Image Generation",
+    "permalink": "/gen-ai/docs/imagegen/imagegenintro"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "streamlit copy/intro",
+  "id": "streamlit copy/intro",
+  "title": "Streamlit",
+  "description": "What is Streamlit ?",
+  "source": "@site/docs/streamlit copy/intro.md",
+  "sourceDirName": "streamlit copy",
+  "slug": "/streamlit copy/intro",
+  "permalink": "/gen-ai/docs/streamlit copy/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/streamlit copy/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Creating an Image Generation Application using Clipdrop API and Gradio",
+    "permalink": "/gen-ai/docs/imagegen/clipdropgradio"
+  },
+  "next": {
+    "title": "Building a Chatbot with LLMs",
+    "permalink": "/gen-ai/docs/chatbotllm/"
+  }
+}
